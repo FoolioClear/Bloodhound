@@ -1,8 +1,5 @@
 # BloodHound
 
-<img align="center" alt="img" src="https://imgur.com/a/ZlivauX">
-<br>
-
 ## Instalação
 
 1. **Clone o repositório:**
