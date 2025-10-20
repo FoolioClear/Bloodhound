@@ -1,6 +1,6 @@
 # BloodHound
 
-<img align="center" alt="GIF" src="https://ibb.co/d4Gk1bWg">
+<img align="center" alt="GIF" src="https://imgur.com/a/ZlivauX">
 <br>
 
 ## Instalação
