@@ -1,5 +1,9 @@
 # BloodHound
 
+<div align="center">
+  <img src="https://z-cdn-media.chatglm.cn/files/d1435116-62df-45f9-b6fe-39af07459291_ab67616d0000b2738e34bc3d73f1bc3971d1cbe2.jpeg?auth_key=1792481099-b9d4115c197b453bba2e135148c5dc17-0-8a962163d3f90da6b1044c6f0bbbfba7" alt="BloodHound Team" width="800">
+</div>
+
 ## Instalação
 
 1. **Clone o repositório:**
