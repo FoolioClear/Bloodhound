@@ -1,6 +1,6 @@
 # BloodHound
 
-<img align="center" alt="JPEG" src="https://imgur.com/a/ZlivauX">
+<img align="center" alt="img" src="https://imgur.com/a/ZlivauX">
 <br>
 
 ## Instalação
