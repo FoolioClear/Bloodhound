@@ -5,6 +5,7 @@
 </div>
 
 ## Instalação
+- Node.js 16+ instalado
 
 1. **Clone o repositório:**
     ```sh
@@ -28,4 +29,4 @@
 
 ---
 
-BloodHound © 2024. All Rights Reserved.
+BloodHound © 2025. All Rights Reserved.
