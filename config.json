@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "cor_painel": "#FF0000",
+    "delay": "1",
+    "kosame": {
+        "ativado": false,
+        "canal": "",
+        "tokens": []
+    }
+}
